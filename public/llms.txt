@@ -1,0 +1,8 @@
+# Clínica Veterinaria Coquito
+
+Sitio informativo de Clínica Veterinaria Coquito en Trujillo, Perú, con información sobre cirugía veterinaria, traumatología, tejidos blandos, emergencias y servicios complementarios.
+
+- [Inicio](/)
+- [Especialidades](/#especialidades)
+- [Servicios](/#servicios)
+- [Ubicación](/#ubicacion)
